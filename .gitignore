@@ -1,7 +1,10 @@
 .idea
 composer.lock
 /public/app.js.LICENSE.txt
+temp_auto_push.bat
 /node_modules
 /vendor
 .phpunit.xml
 .phpunit.result.cache
+.gitignore
+branch_structure.json
